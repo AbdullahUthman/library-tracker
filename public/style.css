@@ -1,0 +1,11 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.book-card {
+  transition: transform 0.2s;
+}
+
+.book-card:hover {
+  transform: translateY(-4px);
+}
